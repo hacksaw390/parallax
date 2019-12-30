@@ -1,0 +1,29 @@
+.fimg{
+	background: transparent;
+	height: 500px;
+	background-image: url(../img/f1.jpeg);
+	background-position: cover cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.simg{
+	height: 500px;
+	background-image: url(../img/f2.jpeg);
+	background-position: cover cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.timg{
+	height: 500px;
+	background-image: url(../img/f3.jpeg);
+	background-position: cover cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.fimg{
+	height: 500px;
+	background-image: url(../img/f4.jpeg);
+	background-position: cover cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
